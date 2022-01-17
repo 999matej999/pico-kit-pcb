@@ -418,6 +418,14 @@
     [
       "fe15dc26-52fc-427e-8179-2b8bb41b57bb",
       "Debugger"
+    ],
+    [
+      "81612aa8-1e7d-439d-a45b-52594d29b291",
+      "Basic User Interface"
+    ],
+    [
+      "9fa08ac3-227f-4cf0-bd88-360446d7d584",
+      "VGA & DVI Interface"
     ]
   ],
   "text_variables": {}
