@@ -426,6 +426,10 @@
     [
       "9fa08ac3-227f-4cf0-bd88-360446d7d584",
       "VGA & DVI Interface"
+    ],
+    [
+      "0065707f-10bf-4ce6-8c87-b586b6aef774",
+      "DAC Buttons"
     ]
   ],
   "text_variables": {}
