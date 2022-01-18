@@ -429,7 +429,15 @@
     ],
     [
       "fb9d2228-979f-4324-8147-e53c807eddd8",
-      "SPI devices"
+      "SPI Devices"
+    ],
+    [
+      "f30c370b-5e50-4162-81c6-d1177668954b",
+      "I2C Devices"
+    ],
+    [
+      "2bd19bd1-2975-4b91-a884-8b1113539e97",
+      "Audio Interface"
     ]
   ],
   "text_variables": {}
