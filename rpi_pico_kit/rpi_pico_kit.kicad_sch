@@ -6,6 +6,7 @@
 
   (title_block
     (title "Raspberry Pi Pico Kit")
+    (date "2022-01-02")
     (rev "1")
   )
 
@@ -1016,6 +1017,7 @@
 
   (no_connect (at 104.14 29.21) (uuid 08f4ddf0-3a3f-474f-84e3-de93aad171e9))
   (no_connect (at 104.14 39.37) (uuid 08f4ddf0-3a3f-474f-84e3-de93aad171e9))
+  (no_connect (at 104.14 41.91) (uuid 740caa99-d113-44d1-bc14-9cf6a117cf37))
   (no_connect (at 104.14 36.83) (uuid bfb508da-2acc-4366-a932-2f9a9338c873))
 
   (wire (pts (xy 104.14 72.39) (xy 106.68 72.39))
