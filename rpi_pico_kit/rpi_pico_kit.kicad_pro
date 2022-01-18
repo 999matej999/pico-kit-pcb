@@ -426,6 +426,10 @@
     [
       "9fa08ac3-227f-4cf0-bd88-360446d7d584",
       "VGA & DVI Interface"
+    ],
+    [
+      "fb9d2228-979f-4324-8147-e53c807eddd8",
+      "SPI devices"
     ]
   ],
   "text_variables": {}
