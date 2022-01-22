@@ -1347,7 +1347,7 @@
     (property "Value" "HDMI_A" (id 1) (at 255.27 93.9799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 244.475 92.71 0)
+    (property "Footprint" "Connector_HDMI:HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal" (id 2) (at 244.475 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://en.wikipedia.org/wiki/HDMI" (id 3) (at 244.475 92.71 0)
