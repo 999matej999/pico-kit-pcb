@@ -3586,6 +3586,9 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/2218ba72-57b4-4036-a3ae-2cb3fc2148a4"
       (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/b963e3b3-80f9-4feb-9901-8a038cfc3a76"
+      (reference "JP3") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
     (path "/91c22ee0-3402-49cb-8c0d-c5afcfd276c7"
       (reference "Q1") (unit 1) (value "BC807") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
