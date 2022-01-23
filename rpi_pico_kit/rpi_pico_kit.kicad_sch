@@ -3331,6 +3331,21 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/6d48bf97-08a5-43df-ab62-3baf84874f92"
       (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/f1c8db50-1342-4987-b8e2-597ee811a6c3"
+      (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/f3ec9fe1-c394-4b5c-89b3-c1e5eab53991"
+      (reference "#PWR0142") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/da5dac03-ba4c-45c3-a8ec-e2d18933ad37"
+      (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/8b96a25a-2563-4df9-a857-66f61718a1de"
+      (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/f4b265b0-827c-4a29-b15e-72afc6f93a77"
+      (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
+    )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "")
     )
@@ -3457,6 +3472,9 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/3f845c9e-d579-4e05-b3cb-d317dadff73e"
       (reference "C41") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/2496a9d5-80d7-431d-bece-0e4f48df8df3"
+      (reference "C42") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "")
     )
@@ -3550,11 +3568,11 @@
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/b843baff-c53b-442b-a7f9-2158b4c66711"
       (reference "J7") (unit 1) (value "Conn_01x04_Male") (footprint "")
     )
-    (path "/f30c370b-5e50-4162-81c6-d1177668954b/c0349098-e92d-4322-98b4-8e809231ff63"
-      (reference "J8") (unit 1) (value "Conn_01x04_Male") (footprint "")
-    )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/ade4ca70-21ce-4f98-97ea-a35ff0d4d05f"
-      (reference "J9") (unit 1) (value "OLED Display") (footprint "Display:Adafruit_SSD1306")
+      (reference "J8") (unit 1) (value "OLED Display") (footprint "Display:Adafruit_SSD1306")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/c0349098-e92d-4322-98b4-8e809231ff63"
+      (reference "J9") (unit 1) (value "Conn_01x04_Male") (footprint "")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/4a211bff-bec1-4540-b22c-a855b300082e"
       (reference "J10") (unit 1) (value "AudioJack-CUI-SJ-3523-SMT") (footprint "RPi_Pico:CUI_SJ-3523-audio-jack")
@@ -3566,7 +3584,7 @@
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/2218ba72-57b4-4036-a3ae-2cb3fc2148a4"
-      (reference "JP3") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+      (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
     (path "/91c22ee0-3402-49cb-8c0d-c5afcfd276c7"
       (reference "Q1") (unit 1) (value "BC807") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -3915,6 +3933,9 @@
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/5d5e12d2-a8ee-4fc7-a3b7-e5af3cf28c9e"
       (reference "U9") (unit 1) (value "TLV70033_SOT23-5") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/b65ba35f-2446-4984-8e74-39dae0d32df4"
+      (reference "U10") (unit 1) (value "AT24CS32") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/1c80ac80-63bf-4b8f-8b0a-dba59c0d317e"
       (reference "Y1") (unit 1) (value "12MHz") (footprint "")

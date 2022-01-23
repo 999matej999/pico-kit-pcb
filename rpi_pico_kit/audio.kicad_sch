@@ -1609,7 +1609,7 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 219.71 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2218ba72-57b4-4036-a3ae-2cb3fc2148a4)
-    (property "Reference" "JP3" (id 0) (at 219.71 107.95 0))
+    (property "Reference" "JP2" (id 0) (at 219.71 107.95 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 219.71 110.49 0))
     (property "Footprint" "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" (id 2) (at 219.71 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
