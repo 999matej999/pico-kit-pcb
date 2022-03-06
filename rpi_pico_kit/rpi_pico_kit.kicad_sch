@@ -2245,13 +2245,13 @@
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 237.49 157.48 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 67656a88-3e99-417f-b639-7ef3302321d2)
-    (property "Reference" "JP?" (id 0) (at 238.76 148.59 0)
+    (property "Reference" "JP5" (id 0) (at 238.76 148.59 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x03_Male" (id 1) (at 238.76 151.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 237.49 157.48 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 237.49 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 237.49 157.48 0)
@@ -2284,13 +2284,13 @@
   (symbol (lib_id "Connector:Conn_01x03_Male") (at 198.12 157.48 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6eecff7e-30f9-4f28-984d-38395d6865ec)
-    (property "Reference" "JP?" (id 0) (at 199.39 148.59 0)
+    (property "Reference" "JP4" (id 0) (at 199.39 148.59 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x03_Male" (id 1) (at 199.39 151.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 198.12 157.48 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 198.12 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 198.12 157.48 0)
@@ -2776,7 +2776,7 @@
     (property "Value" "Conn_01x03_Male" (id 1) (at 112.395 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 111.76 118.11 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 111.76 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 111.76 118.11 0)
@@ -3573,10 +3573,10 @@
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/6429a062-d753-4165-91f8-badf014add71"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/a9382fcb-fc51-4b98-bf97-972b46fc0949"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0147") (unit 1) (value "+5V") (footprint "")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "")
@@ -3708,7 +3708,7 @@
       (reference "C42") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/6c464c76-0603-4471-9260-a10f77de9af3"
-      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C43") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "")
@@ -3786,7 +3786,7 @@
       (reference "J1") (unit 1) (value "Barrel_Jack_Switch") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
     )
     (path "/ddd6a23d-057a-44b2-bd8d-c0bba27bdf0d"
-      (reference "J2") (unit 1) (value "Conn_01x03_Male") (footprint "")
+      (reference "J2") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/b746b086-d024-409d-bd6c-0149ccf84dd5"
       (reference "J3") (unit 1) (value "USB_B_Mini") (footprint "")
@@ -3824,11 +3824,11 @@
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/b963e3b3-80f9-4feb-9901-8a038cfc3a76"
       (reference "JP3") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
-    (path "/67656a88-3e99-417f-b639-7ef3302321d2"
-      (reference "JP?") (unit 1) (value "Conn_01x03_Male") (footprint "")
-    )
     (path "/6eecff7e-30f9-4f28-984d-38395d6865ec"
-      (reference "JP?") (unit 1) (value "Conn_01x03_Male") (footprint "")
+      (reference "JP4") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
+    (path "/67656a88-3e99-417f-b639-7ef3302321d2"
+      (reference "JP5") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/91c22ee0-3402-49cb-8c0d-c5afcfd276c7"
       (reference "Q1") (unit 1) (value "BC807") (footprint "Package_TO_SOT_SMD:SOT-23")
