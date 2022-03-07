@@ -4128,17 +4128,17 @@
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/e88a2344-17ff-4e53-b935-70a9fa80f93c"
       (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/546fa5a6-58a0-41a6-8c07-4e51068d248d"
-      (reference "SW3") (unit 1) (value "SW_Push_Dual") (footprint "")
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/f1eceabf-35d8-4dd7-86d6-447404280d82"
+      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/d433ac35-8aec-4df4-a695-67eb7fd1628e"
-      (reference "SW4") (unit 1) (value "SW_Push_Dual") (footprint "")
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/02ebca4b-2167-4173-83c7-c62f025c1382"
+      (reference "SW4") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/b9b508d4-92cf-486d-9c6b-64ddc6ae2319"
-      (reference "SW5") (unit 1) (value "SW_Push_Dual") (footprint "")
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/aee469fc-c5f2-4050-983b-65966cb9d124"
+      (reference "SW5") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/1b2c612a-82c6-419c-a460-123d68d93bea"
-      (reference "SW6") (unit 1) (value "SW_Push_Dual") (footprint "")
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/b64f2f06-7a27-49c2-9268-0289b42bd8c6"
+      (reference "SW6") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
     )
     (path "/8f624921-0bb1-4d0e-848b-7458a506535e"
       (reference "U1") (unit 1) (value "RPi Pico") (footprint "RPi_Pico:RPi_Pico_SMD_TH")
