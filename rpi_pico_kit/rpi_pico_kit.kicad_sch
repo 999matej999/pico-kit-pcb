@@ -3987,6 +3987,9 @@
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/6c464c76-0603-4471-9260-a10f77de9af3"
       (reference "C43") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/d00e01f1-a427-4fe7-bfad-fdda4730868f"
+      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+    )
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "")
     )
