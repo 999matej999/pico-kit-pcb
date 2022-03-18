@@ -1547,6 +1547,10 @@
     (stroke (width 0) (type default))
     (uuid 53bbfa3c-b4b9-4c03-a13c-4084f3430b94)
   )
+  (wire (pts (xy 104.14 44.45) (xy 123.19 44.45))
+    (stroke (width 0) (type default))
+    (uuid 54afbb2f-52e1-4a8e-b540-7fa98295ec0a)
+  )
   (wire (pts (xy 212.09 125.73) (xy 224.79 125.73))
     (stroke (width 0) (type default))
     (uuid 58121326-ed4a-48ac-bddf-60202819eb4e)
@@ -1899,10 +1903,6 @@
     (stroke (width 0) (type default))
     (uuid e18d8397-0252-45b3-9ee2-114a731b2e18)
   )
-  (wire (pts (xy 104.14 44.45) (xy 123.19 44.45))
-    (stroke (width 0) (type default))
-    (uuid e20148d6-fc47-43c9-bf23-d4ffceb36a76)
-  )
   (wire (pts (xy 212.09 121.92) (xy 224.79 121.92))
     (stroke (width 0) (type default))
     (uuid e22deee9-240b-400b-a710-295233324317)
@@ -1996,8 +1996,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 054c253f-1b82-4bbd-9753-e6f1e954369e)
   )
-  (label "ENC_SW" (at 123.19 44.45 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
+  (label "ENC_SW" (at 53.34 64.77 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 09382193-8769-46fc-9da0-cdf8c5a91a08)
   )
   (label "I2C_SCL" (at 135.89 88.9 0) (fields_autoplaced)
@@ -2248,7 +2248,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b09e1339-16fb-4ca8-9580-183aa1d8a5b7)
   )
-  (label "DAC_BUTTONS" (at 123.19 33.02 0) (fields_autoplaced)
+  (label "DAC_BUTTONS" (at 123.19 44.45 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b1003c1c-655e-42f5-a16b-edf2903b5f02)
   )
@@ -2673,25 +2673,6 @@
     )
     (pin "1" (uuid 954221d2-5d25-4420-8daf-9d0dd8645883))
     (pin "2" (uuid d8b5f233-5a3b-4e53-8cf7-23fd8dd3e519))
-  )
-
-  (symbol (lib_id "74xx:74HC14") (at -83.82 176.53 0) (unit 6)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 4dffe7c3-7f13-4a1c-a649-3171c52d11a0)
-    (property "Reference" "U11" (id 0) (at -83.82 168.91 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "74HC14" (id 1) (at -83.82 171.45 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (id 2) (at -83.82 176.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at -83.82 176.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "12" (uuid 2dd3fead-c221-419c-bd0a-db596acdd529))
-    (pin "13" (uuid 188e4a58-3575-4a3c-a5f5-13f049cfc3c5))
   )
 
   (symbol (lib_id "74xx:74HC14") (at -15.24 59.69 0) (unit 7)
@@ -3311,25 +3292,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d2e3db98-9179-4229-98e7-202c6683e92a))
-  )
-
-  (symbol (lib_id "74xx:74HC14") (at -83.82 163.83 0) (unit 5)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid d6442fa2-f079-4010-8e7e-b0480d520229)
-    (property "Reference" "U11" (id 0) (at -83.82 156.21 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "74HC14" (id 1) (at -83.82 158.75 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (id 2) (at -83.82 163.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at -83.82 163.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "10" (uuid cccd89a3-7ade-4fca-a767-d44d6e874802))
-    (pin "11" (uuid b12b9f1b-be16-4191-adc1-b0c01c24d1a9))
   )
 
   (symbol (lib_id "Device:R") (at 52.07 21.59 0) (unit 1)
@@ -3980,9 +3942,6 @@
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/9e60cc76-e5a2-4ba2-afc8-a21292cd5eb2"
       (reference "#PWR054") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/c46b7b9e-c177-428b-ac56-4d85391731d8"
-      (reference "#PWR055") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/603263ff-87f5-484b-b8de-db8ea296cfd2"
       (reference "#PWR056") (unit 1) (value "GND") (footprint "")
@@ -4683,9 +4642,6 @@
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/838f25e3-a0bf-4ba4-81b7-d42928da1858"
       (reference "R37") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/2458ad6e-3867-4cc8-95d9-f1959c2ef0f8"
-      (reference "R38") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/4a00d9be-1148-44e0-8d76-ef3bde958ca3"
       (reference "R39") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -4983,10 +4939,10 @@
     (path "/d2118661-349f-4f17-a649-7ecad9caafc3"
       (reference "U11") (unit 4) (value "74HC14") (footprint "")
     )
-    (path "/d6442fa2-f079-4010-8e7e-b0480d520229"
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/867722f7-12fe-483b-bf3e-e3b16f27ac11"
       (reference "U11") (unit 5) (value "74HC14") (footprint "")
     )
-    (path "/4dffe7c3-7f13-4a1c-a649-3171c52d11a0"
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/cddadd46-3263-46d4-bb4d-2d46c2c2da6b"
       (reference "U11") (unit 6) (value "74HC14") (footprint "")
     )
     (path "/51159ff6-566b-4074-a591-1ba87332a58a"
