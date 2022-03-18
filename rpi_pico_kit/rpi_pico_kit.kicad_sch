@@ -2248,8 +2248,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b09e1339-16fb-4ca8-9580-183aa1d8a5b7)
   )
-  (label "DAC_BUTTONS" (at 119.38 33.02 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (label "DAC_BUTTONS" (at 123.19 33.02 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b1003c1c-655e-42f5-a16b-edf2903b5f02)
   )
   (label "I2S_DIN" (at 233.68 113.03 0) (fields_autoplaced)
@@ -4532,6 +4532,36 @@
     )
     (path "/67656a88-3e99-417f-b639-7ef3302321d2"
       (reference "JP5") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/1222ae44-4df0-4a86-9536-902c34d43ead"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/52ba3d3b-dc35-44f3-96c7-86377fd9995e"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/5ded64aa-dca0-408f-a48b-f53eb98f5374"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/7d326b37-ab5e-44d1-b94f-8bb8a3082b83"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/7dfab576-70da-431d-bdfc-d7e7f255a417"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/8148f06e-3e09-4403-8a6b-099e425a5e1b"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/b67fa2b6-808c-4c5e-ad1b-7770441b7218"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/b8fac297-f489-4415-88c6-1acf90284079"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/bb19a63f-5378-4a83-a1e3-ca9a4dc4c2a5"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
+    )
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/ec5d873b-a8d3-4730-9957-1f6103ca70c1"
+      (reference "JP?") (unit 1) (value "Jumper_2_Bridged") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/6445b0ba-47d1-4184-9e34-0e14306ae2be"
       (reference "Q3") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
