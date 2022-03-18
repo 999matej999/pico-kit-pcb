@@ -4010,9 +4010,6 @@
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/9e60cc76-e5a2-4ba2-afc8-a21292cd5eb2"
       (reference "#PWR054") (unit 1) (value "GND") (footprint "")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/603263ff-87f5-484b-b8de-db8ea296cfd2"
-      (reference "#PWR056") (unit 1) (value "GND") (footprint "")
-    )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/e74ad659-544d-4061-a082-3eced266ffd9"
       (reference "#PWR057") (unit 1) (value "GND") (footprint "")
     )
@@ -4315,6 +4312,9 @@
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/17af2537-7fd8-47a6-9462-454095ca2321"
       (reference "#PWR0159") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/8d64a691-d0ef-4ebc-a0ab-b4f765136248"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "")
