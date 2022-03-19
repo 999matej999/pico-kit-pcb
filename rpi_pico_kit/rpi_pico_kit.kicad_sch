@@ -4760,9 +4760,6 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
     )
-    (path "/f30c370b-5e50-4162-81c6-d1177668954b/afa61c31-e4d5-4156-bd23-f66617c978cf"
-      (reference "Brd?") (unit 1) (value "SSD1306") (footprint "")
-    )
     (path "/69535f21-c51a-4e9b-a6f9-35077bf59f7e"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -4961,8 +4958,8 @@
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/b843baff-c53b-442b-a7f9-2158b4c66711"
       (reference "J7") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
-    (path "/f30c370b-5e50-4162-81c6-d1177668954b/ade4ca70-21ce-4f98-97ea-a35ff0d4d05f"
-      (reference "J8") (unit 1) (value "OLED Display") (footprint "")
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/afa61c31-e4d5-4156-bd23-f66617c978cf"
+      (reference "J8") (unit 1) (value "OLED Display SSD1306") (footprint "SSD1306:128x64OLED")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/c0349098-e92d-4322-98b4-8e809231ff63"
       (reference "J9") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
