@@ -4383,7 +4383,7 @@
       (reference "#PWR0162") (unit 1) (value "+5V") (footprint "")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
-      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "")
+      (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
     )
     (path "/69535f21-c51a-4e9b-a6f9-35077bf59f7e"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -4980,7 +4980,7 @@
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/e88a2344-17ff-4e53-b935-70a9fa80f93c"
-      (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+      (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/f1eceabf-35d8-4dd7-86d6-447404280d82"
       (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
