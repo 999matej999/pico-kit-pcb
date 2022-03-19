@@ -4950,7 +4950,7 @@
       (reference "J5") (unit 1) (value "HDMI_A") (footprint "HDMI_SS:STEWART_SS-53000-001")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/c53104ef-da4c-45b1-9422-511b633c82d8"
-      (reference "J6") (unit 1) (value "Micro_SD_Card_Det") (footprint "")
+      (reference "J6") (unit 1) (value "Micro_SD_Card_Det") (footprint "Connector_Card:microSD_HC_Molex_104031-0811")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/b843baff-c53b-442b-a7f9-2158b4c66711"
       (reference "J7") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
