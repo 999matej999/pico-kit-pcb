@@ -2717,7 +2717,7 @@
     (property "Value" "D_Schottky" (id 1) (at 58.7375 171.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 58.42 175.26 0)
+    (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 58.42 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 58.42 175.26 0)
@@ -2755,7 +2755,7 @@
     (property "Value" "74HC14" (id 1) (at 153.67 170.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 147.32 168.91 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 147.32 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at 147.32 168.91 0)
@@ -2908,7 +2908,7 @@
     (property "Value" "D_Schottky" (id 1) (at 67.6275 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 67.31 116.84 0)
+    (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 67.31 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 67.31 116.84 0)
@@ -3088,7 +3088,7 @@
     (property "Value" "74HC14" (id 1) (at 44.45 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 44.45 147.32 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 44.45 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at 44.45 147.32 0)
@@ -3186,7 +3186,7 @@
     (property "Value" "74HC14" (id 1) (at 44.45 170.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 44.45 175.26 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 44.45 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at 44.45 175.26 0)
@@ -3410,7 +3410,7 @@
     (property "Value" "74HC14" (id 1) (at 95.25 170.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 95.25 175.26 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 95.25 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at 95.25 175.26 0)
@@ -3541,7 +3541,7 @@
     (property "Value" "D_Schottky" (id 1) (at 58.7375 143.51 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 58.42 147.32 0)
+    (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 58.42 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 58.42 147.32 0)
@@ -3633,7 +3633,7 @@
     (property "Value" "74HC14" (id 1) (at 95.25 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 95.25 147.32 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 95.25 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC14" (id 3) (at 95.25 147.32 0)
@@ -4166,12 +4166,6 @@
     (path "/c277f64c-2598-4d79-ab1c-411cc43489a7"
       (reference "#PWR086") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/f30c370b-5e50-4162-81c6-d1177668954b/07a25216-b010-4723-9168-e557995ef39f"
-      (reference "#PWR087") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/f30c370b-5e50-4162-81c6-d1177668954b/3e3b712f-01a2-4956-a6a1-6629f32da0df"
-      (reference "#PWR088") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/f7a35150-59de-4930-ae34-54bee27cae10"
       (reference "#PWR090") (unit 1) (value "GND") (footprint "")
     )
@@ -4208,8 +4202,8 @@
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/605b84e0-1cb6-4ff0-a961-d8b3bb5221e8"
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
-    (path "/f30c370b-5e50-4162-81c6-d1177668954b/dcf48916-4544-4b7b-ada2-8b7144e92793"
-      (reference "#PWR0103") (unit 1) (value "+3.3V") (footprint "")
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/dc228726-e736-4a51-9116-ab6797a3bf13"
+      (reference "#PWR0103") (unit 1) (value "+5V") (footprint "")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/26ec0968-93a1-4ce1-b100-e62bc2ef70a9"
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
@@ -4382,6 +4376,12 @@
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/ed7c87b9-897d-480d-a39e-5c3e395ac61f"
       (reference "#PWR0160") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/a5591c2b-a7ba-4fa4-bedc-c0a2c150bb9f"
+      (reference "#PWR0161") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/bbc72de9-5efb-47ba-ac42-f5881579e4cb"
+      (reference "#PWR0162") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "")
     )
@@ -4518,16 +4518,16 @@
       (reference "C44") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "")
+      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/e7b5be92-fd09-4ced-9ca6-a43bc960a6f8"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/e732dccc-c2d3-4cf2-b265-8ec7268884f8"
-      (reference "D3") (unit 1) (value "D_Schottky") (footprint "")
+      (reference "D3") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/46adb2f6-ab2a-4459-b787-ebf60b04ee23"
-      (reference "D4") (unit 1) (value "D_Schottky") (footprint "")
+      (reference "D4") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/3c4b4560-2ef1-4bea-91f7-f8da0f41fdb6"
       (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -4539,7 +4539,7 @@
       (reference "D7") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/358aef2e-0355-4ce7-8683-08663016726b"
-      (reference "D8") (unit 1) (value "D_Schottky") (footprint "")
+      (reference "D8") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/d422c4bd-6770-4f42-a52f-89ed64049712"
       (reference "D9") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -4595,26 +4595,26 @@
     (path "/ddd6a23d-057a-44b2-bd8d-c0bba27bdf0d"
       (reference "J2") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/b746b086-d024-409d-bd6c-0149ccf84dd5"
-      (reference "J3") (unit 1) (value "USB_B_Mini") (footprint "")
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/1ef4b6d4-dd7e-4fb5-ba27-9db5e3d09f04"
+      (reference "J3") (unit 1) (value "USB_B") (footprint "Connector_USB:USB_B_Lumberg_2411_02_Horizontal")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/503fb0f4-13ed-4158-b2ec-8a92da43b22a"
       (reference "J4") (unit 1) (value "DB15_Female_HighDensity_MountingHoles") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/acd231c3-d87a-41aa-a37a-d99be4caff1b"
-      (reference "J5") (unit 1) (value "HDMI_A") (footprint "")
+      (reference "J5") (unit 1) (value "HDMI_A") (footprint "HDMI_SS:STEWART_SS-53000-001")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/c53104ef-da4c-45b1-9422-511b633c82d8"
       (reference "J6") (unit 1) (value "Micro_SD_Card_Det") (footprint "")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/b843baff-c53b-442b-a7f9-2158b4c66711"
-      (reference "J7") (unit 1) (value "Conn_01x04_Male") (footprint "")
+      (reference "J7") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/ade4ca70-21ce-4f98-97ea-a35ff0d4d05f"
-      (reference "J8") (unit 1) (value "OLED Display") (footprint "Display:Adafruit_SSD1306")
+      (reference "J8") (unit 1) (value "OLED Display") (footprint "")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/c0349098-e92d-4322-98b4-8e809231ff63"
-      (reference "J9") (unit 1) (value "Conn_01x04_Male") (footprint "")
+      (reference "J9") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/4a211bff-bec1-4540-b22c-a855b300082e"
       (reference "J10") (unit 1) (value "AudioJack-CUI-SJ-3523-SMT") (footprint "RPi_Pico:CUI_SJ-3523-audio-jack")
@@ -4632,7 +4632,7 @@
       (reference "J14") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/5c15ce3e-b822-434e-9649-e012dab833ed"
-      (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "")
+      (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/2218ba72-57b4-4036-a3ae-2cb3fc2148a4"
       (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
@@ -5034,28 +5034,28 @@
       (reference "U4") (unit 1) (value "W25Q128JVS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/e16cf771-c3fa-4172-bf01-32417bd59f0d"
-      (reference "U5") (unit 1) (value "74HC14") (footprint "")
+      (reference "U5") (unit 1) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/2270ceca-614b-44d8-b973-22cc22acb1a1"
-      (reference "U5") (unit 2) (value "74HC14") (footprint "")
+      (reference "U5") (unit 2) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/ce3284f3-a343-4acc-ac4c-24b15f7cfe2f"
-      (reference "U5") (unit 3) (value "74HC14") (footprint "")
+      (reference "U5") (unit 3) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/c7add3a9-d8c5-4a04-a5dc-a9dba744441f"
-      (reference "U5") (unit 4) (value "74HC14") (footprint "")
+      (reference "U5") (unit 4) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/c25647b1-45e8-4f2e-a8c5-1996e742f60f"
-      (reference "U5") (unit 5) (value "74HC14") (footprint "")
+      (reference "U5") (unit 5) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/edef7cb7-10cb-452e-b2c4-03db0c2096da"
-      (reference "U5") (unit 6) (value "74HC14") (footprint "")
+      (reference "U5") (unit 6) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/f55351c8-fcb1-4b7e-a6b3-0587524efc00"
-      (reference "U5") (unit 7) (value "74HC14") (footprint "")
+      (reference "U5") (unit 7) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/45f42f59-2157-47b4-a511-221a1caa816e"
-      (reference "U6") (unit 1) (value "MCP23S08-xSS") (footprint "")
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/641f72cd-a2bc-495c-a05a-671d637143f4"
+      (reference "U6") (unit 1) (value "MCP23S08-xSO") (footprint "Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/9e7d3081-6fb7-4514-bb9e-43aae438f7a1"
       (reference "U7") (unit 1) (value "NC7WZ16P6X") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
@@ -5070,25 +5070,25 @@
       (reference "U10") (unit 1) (value "AT24CS32") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/8cfe7d6c-60a7-4cdd-be81-08179f25def9"
-      (reference "U11") (unit 1) (value "74HC14") (footprint "")
+      (reference "U11") (unit 1) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/f6bee219-67fb-464f-b724-02f155dc53f3"
-      (reference "U11") (unit 2) (value "74HC14") (footprint "")
+      (reference "U11") (unit 2) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/919f662f-b70b-4993-9ea2-ad54dc351e72"
-      (reference "U11") (unit 3) (value "74HC14") (footprint "")
+      (reference "U11") (unit 3) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/d2118661-349f-4f17-a649-7ecad9caafc3"
-      (reference "U11") (unit 4) (value "74HC14") (footprint "")
+      (reference "U11") (unit 4) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/867722f7-12fe-483b-bf3e-e3b16f27ac11"
-      (reference "U11") (unit 5) (value "74HC14") (footprint "")
+      (reference "U11") (unit 5) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/cddadd46-3263-46d4-bb4d-2d46c2c2da6b"
-      (reference "U11") (unit 6) (value "74HC14") (footprint "")
+      (reference "U11") (unit 6) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/51159ff6-566b-4074-a591-1ba87332a58a"
-      (reference "U11") (unit 7) (value "74HC14") (footprint "")
+      (reference "U11") (unit 7) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/133523a6-c71b-4898-863f-ff2ecd052363"
       (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm")
