@@ -4044,7 +4044,7 @@
   (symbol (lib_id "Device:LED") (at 265.43 142.24 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f2b77e4a-0526-45d3-b924-7bae8ff15fde)
-    (property "Reference" "D7" (id 0) (at 265.43 137.16 0)
+    (property "Reference" "LED4" (id 0) (at 265.43 137.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ORANGE" (id 1) (at 265.43 139.7 0)

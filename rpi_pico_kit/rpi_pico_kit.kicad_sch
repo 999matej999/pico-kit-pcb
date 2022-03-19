@@ -2719,7 +2719,7 @@
   (symbol (lib_id "Device:LED") (at 109.22 147.32 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3c4b4560-2ef1-4bea-91f7-f8da0f41fdb6)
-    (property "Reference" "D5" (id 0) (at 109.22 142.24 0)
+    (property "Reference" "LED2" (id 0) (at 109.22 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ORANGE" (id 1) (at 109.22 144.78 0)
@@ -3542,7 +3542,7 @@
   (symbol (lib_id "Device:LED") (at 109.22 175.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bf2715df-9be1-4bde-b855-61b10396d866)
-    (property "Reference" "D6" (id 0) (at 109.22 170.18 0)
+    (property "Reference" "LED3" (id 0) (at 109.22 170.18 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ORANGE" (id 1) (at 109.22 172.72 0)
@@ -3842,7 +3842,7 @@
   (symbol (lib_id "Device:LED") (at 95.25 116.84 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e7b5be92-fd09-4ced-9ca6-a43bc960a6f8)
-    (property "Reference" "D2" (id 0) (at 95.25 110.49 0)
+    (property "Reference" "LED1" (id 0) (at 95.25 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "GREEN" (id 1) (at 95.25 113.03 0)
@@ -4853,53 +4853,17 @@
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
-    (path "/e7b5be92-fd09-4ced-9ca6-a43bc960a6f8"
-      (reference "D2") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
     (path "/e732dccc-c2d3-4cf2-b265-8ec7268884f8"
       (reference "D3") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
     (path "/46adb2f6-ab2a-4459-b787-ebf60b04ee23"
       (reference "D4") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
-    (path "/3c4b4560-2ef1-4bea-91f7-f8da0f41fdb6"
-      (reference "D5") (unit 1) (value "ORANGE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/bf2715df-9be1-4bde-b855-61b10396d866"
-      (reference "D6") (unit 1) (value "ORANGE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/f2b77e4a-0526-45d3-b924-7bae8ff15fde"
-      (reference "D7") (unit 1) (value "ORANGE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/358aef2e-0355-4ce7-8683-08663016726b"
       (reference "D8") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/d422c4bd-6770-4f42-a52f-89ed64049712"
-      (reference "D9") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/bb2118cd-41e9-4a82-b1da-f8a936fb4eb9"
       (reference "D10") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
-    )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/130cbcc3-acfb-4f15-a37e-44a016f9278a"
-      (reference "D11") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/8c2c7488-ee2b-43b1-96b6-a7ff8cd8a64a"
-      (reference "D12") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/55a001a0-f7cd-49a3-8a2b-e1dd9ba6c66f"
-      (reference "D13") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/02544868-ae7d-44b5-8ddb-57162e1fa797"
-      (reference "D14") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/b1190c19-aff1-4a10-b7ee-16b0ae30523a"
-      (reference "D15") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/1c35e896-0d22-4b32-9242-fd09bf57a794"
-      (reference "D16") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/ba1f7376-3152-4430-8947-bfd02144e3ee"
-      (reference "D17") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/82a5cace-d873-4a40-9372-e59a83de5359"
       (reference "FID1") (unit 1) (value "Fiducial") (footprint "Fiducial:Fiducial_0.75mm_Mask1.5mm")
@@ -5008,6 +4972,42 @@
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/b67fa2b6-808c-4c5e-ad1b-7770441b7218"
       (reference "JP14") (unit 1) (value "Jumper_2_Bridged") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/e7b5be92-fd09-4ced-9ca6-a43bc960a6f8"
+      (reference "LED1") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/3c4b4560-2ef1-4bea-91f7-f8da0f41fdb6"
+      (reference "LED2") (unit 1) (value "ORANGE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/bf2715df-9be1-4bde-b855-61b10396d866"
+      (reference "LED3") (unit 1) (value "ORANGE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/f2b77e4a-0526-45d3-b924-7bae8ff15fde"
+      (reference "LED4") (unit 1) (value "ORANGE") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/04f0267e-78dd-49b3-b121-3dc6565c3820"
+      (reference "LED5") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/7847a0c0-802b-40db-8cbb-ce9858ae1430"
+      (reference "LED6") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/8a06a98f-aefa-412e-b7f7-5662b4fcc792"
+      (reference "LED7") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/81612aa8-1e7d-439d-a45b-52594d29b291/e82f0090-e329-44d4-aed6-bd7661c35030"
+      (reference "LED8") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/55a001a0-f7cd-49a3-8a2b-e1dd9ba6c66f"
+      (reference "LED9") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/02544868-ae7d-44b5-8ddb-57162e1fa797"
+      (reference "LED10") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/b1190c19-aff1-4a10-b7ee-16b0ae30523a"
+      (reference "LED11") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/1c35e896-0d22-4b32-9242-fd09bf57a794"
+      (reference "LED12") (unit 1) (value "RED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/839030c4-e869-45c6-95cf-9e2a490f8454"
       (reference "Q1") (unit 1) (value "DMN63D8L-7") (footprint "Package_TO_SOT_SMD:SOT-23")
