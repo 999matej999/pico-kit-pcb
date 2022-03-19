@@ -4760,6 +4760,9 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
     )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/afa61c31-e4d5-4156-bd23-f66617c978cf"
+      (reference "Brd?") (unit 1) (value "SSD1306") (footprint "")
+    )
     (path "/69535f21-c51a-4e9b-a6f9-35077bf59f7e"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )

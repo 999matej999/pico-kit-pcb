@@ -2,4 +2,5 @@
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RPi_Pico.pretty")(options "")(descr ""))
   (lib (name "HDMI_SS")(type "KiCad")(uri "${KIPRJMOD}/SS-53000-001")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/SSD1306.pretty")(options "")(descr ""))
 )
