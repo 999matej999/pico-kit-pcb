@@ -4898,6 +4898,9 @@
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
+    (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/0e25fcad-f692-46f2-92f9-9dce6049bbde"
+      (reference "D2") (unit 1) (value "LL4148") (footprint "Diode_SMD:D_MiniMELF")
+    )
     (path "/e732dccc-c2d3-4cf2-b265-8ec7268884f8"
       (reference "D3") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
     )
