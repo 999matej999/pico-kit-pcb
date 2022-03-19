@@ -2673,7 +2673,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 142.875 128.27 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (id 3) (at 144.78 123.19 0)
+    (property "Datasheet" "~" (id 3) (at 144.78 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer Part Number" "DMN63D8L-7" (id 4) (at 144.78 123.19 0)
@@ -2877,7 +2877,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 142.875 106.68 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (id 3) (at 144.78 101.6 0)
+    (property "Datasheet" "~" (id 3) (at 144.78 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer Part Number" "DMN63D8L-7" (id 4) (at 144.78 101.6 0)
@@ -5010,16 +5010,16 @@
       (reference "JP14") (unit 1) (value "Jumper_2_Bridged") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/839030c4-e869-45c6-95cf-9e2a490f8454"
-      (reference "Q1") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q1") (unit 1) (value "DMN63D8L-7") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/2f44858b-9ad7-411b-95ba-c0da546d63cb"
-      (reference "Q2") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q2") (unit 1) (value "DMN63D8L-7") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/1655faa0-cab6-4102-82e9-633d040e5e67"
-      (reference "Q3") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q3") (unit 1) (value "DMN63D8L-7") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/be4599c7-117b-43f3-954a-22a2a57d5bd8"
-      (reference "Q4") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q4") (unit 1) (value "DMN63D8L-7") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/e5bc9ce4-4e59-4c66-9cf3-089656e6e5a1"
       (reference "Q7") (unit 1) (value "DMN63D8L-7") (footprint "Package_TO_SOT_SMD:SOT-23")
