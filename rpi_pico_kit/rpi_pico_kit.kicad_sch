@@ -2541,7 +2541,7 @@
     (property "Reference" "J1" (id 0) (at 50.8 111.76 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Barrel_Jack_Switch" (id 1) (at 50.8 114.3 0)
+    (property "Value" "DC Jack 5.5x2.1mm" (id 1) (at 50.8 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal" (id 2) (at 52.07 120.396 0)
@@ -2777,7 +2777,7 @@
     (property "Reference" "D5" (id 0) (at 58.7375 170.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "D_Schottky" (id 1) (at 58.7375 172.72 0)
+    (property "Value" "STPS1L30U" (id 1) (at 58.7375 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 58.42 175.26 0)
@@ -3034,7 +3034,7 @@
     (property "Reference" "D1" (id 0) (at 67.6275 111.76 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "D_Schottky" (id 1) (at 67.6275 114.3 0)
+    (property "Value" "STPS1L30U" (id 1) (at 67.6275 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 67.31 116.84 0)
@@ -3853,7 +3853,7 @@
     (property "Reference" "D4" (id 0) (at 58.7375 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "D_Schottky" (id 1) (at 58.7375 144.78 0)
+    (property "Value" "STPS1L30U" (id 1) (at 58.7375 144.78 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 58.42 147.32 0)
@@ -4896,19 +4896,19 @@
       (reference "C46") (unit 1) (value "2.2n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/7347ff23-167b-4742-8802-80fd4b05fc44"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
+      (reference "D1") (unit 1) (value "STPS1L30U") (footprint "Diode_SMD:D_SMB")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/358aef2e-0355-4ce7-8683-08663016726b"
-      (reference "D2") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
+      (reference "D2") (unit 1) (value "STPS1L30U") (footprint "Diode_SMD:D_SMB")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/bb2118cd-41e9-4a82-b1da-f8a936fb4eb9"
-      (reference "D3") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
+      (reference "D3") (unit 1) (value "STPS1L30U") (footprint "Diode_SMD:D_SMB")
     )
     (path "/e732dccc-c2d3-4cf2-b265-8ec7268884f8"
-      (reference "D4") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
+      (reference "D4") (unit 1) (value "STPS1L30U") (footprint "Diode_SMD:D_SMB")
     )
     (path "/46adb2f6-ab2a-4459-b787-ebf60b04ee23"
-      (reference "D5") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMB")
+      (reference "D5") (unit 1) (value "STPS1L30U") (footprint "Diode_SMD:D_SMB")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/0e25fcad-f692-46f2-92f9-9dce6049bbde"
       (reference "D6") (unit 1) (value "LL4148") (footprint "Diode_SMD:D_MiniMELF")
@@ -4938,7 +4938,7 @@
       (reference "H6") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.7mm_M2.5")
     )
     (path "/1be26fdf-4440-4eee-ae3b-ea83403c36c3"
-      (reference "J1") (unit 1) (value "Barrel_Jack_Switch") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
+      (reference "J1") (unit 1) (value "DC Jack 5.5x2.1mm") (footprint "Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/1ef4b6d4-dd7e-4fb5-ba27-9db5e3d09f04"
       (reference "J2") (unit 1) (value "USB_B") (footprint "Connector_USB:USB_B_Lumberg_2411_02_Horizontal")
