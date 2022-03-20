@@ -13765,10 +13765,10 @@
       (net 3 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 94ac7e21-96e5-41e1-aefc-d980d1c99536))
     (pad "11" smd rect (at 5.755 -5.1) (size 1.17 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 9bb3e698-01c1-4647-8f9e-672100792b18))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Molex_104031-0811.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/3D_models/1040310811.stp"
+      (offset (xyz 44.5 -1.7 0.6))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
