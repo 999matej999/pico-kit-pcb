@@ -5682,7 +5682,7 @@
       (reference "U11") (unit 1) (value "PCM5101A") (footprint "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/133523a6-c71b-4898-863f-ff2ecd052363"
-      (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm")
+      (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm")
     )
   )
 )

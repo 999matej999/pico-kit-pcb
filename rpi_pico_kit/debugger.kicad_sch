@@ -2833,7 +2833,7 @@
     (property "Value" "12MHz" (id 1) (at 139.7 181.61 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm" (id 2) (at 138.43 177.8 0)
+    (property "Footprint" "Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm" (id 2) (at 138.43 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://abracon.com/Resonators/abm3b.pdf" (id 3) (at 138.43 177.8 0)
