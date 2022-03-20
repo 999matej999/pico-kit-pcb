@@ -10345,9 +10345,14 @@
     (pad "MP" thru_hole circle (at 11.94 -10.1) (size 3.4 3.4) (drill 2.2) (layers *.Cu *.Mask) (tstamp 549ca735-0b93-4917-a58d-da3359eccf17))
     (pad "MP" thru_hole circle (at 11.94 13.7) (size 3.4 3.4) (drill 2.2) (layers *.Cu *.Mask) (tstamp d35567b9-a7d4-41e0-ada5-879cde158b96))
     (model "${KIPRJMOD}/3D_models/OLED-128x64-0.96.step"
-      (offset (xyz 34.5 3.4 3.55))
+      (offset (xyz 34.5 3.4 10.55))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl"
+      (offset (xyz 4 10.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
     )
   )
 
