@@ -5622,7 +5622,7 @@
       (reference "U3") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/f8ea1a0d-7eaa-49fa-9a6c-ba7b0c1415fe"
-      (reference "U4") (unit 1) (value "W25Q16JVSSIQ") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U4") (unit 1) (value "W25Q16JVSSIQ") (footprint "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm")
     )
     (path "/8cfe7d6c-60a7-4cdd-be81-08179f25def9"
       (reference "U5") (unit 1) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")

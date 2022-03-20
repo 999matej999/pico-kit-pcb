@@ -4555,7 +4555,7 @@
     (property "Value" "W25Q16JVSSIQ" (id 1) (at 250.19 109.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (id 2) (at 247.65 97.79 0)
+    (property "Footprint" "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm" (id 2) (at 247.65 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 247.65 97.79 0)
