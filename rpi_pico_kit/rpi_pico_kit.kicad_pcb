@@ -12478,10 +12478,10 @@
       (net 3 "GND") (pinfunction "Shield") (pintype "passive") (tstamp cec0fba2-ab4b-4946-a816-b92c9bac4dad))
     (pad "5" thru_hole circle (at 4.86 7.25 90) (size 4 4) (drill 2.3) (layers *.Cu *.Mask)
       (net 3 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 4070c3d2-00fa-4eca-979e-e1f44dd4d168))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_Lumberg_2411_02_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/3D_models/USB-B.stp"
+      (offset (xyz 7.1 -1.2 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 -90))
     )
   )
 
