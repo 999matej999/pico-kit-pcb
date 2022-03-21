@@ -4,4 +4,5 @@
   (lib (name "HDMI_SS")(type "KiCad")(uri "${KIPRJMOD}/SS-53000-001")(options "")(descr ""))
   (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/SSD1306.pretty")(options "")(descr ""))
   (lib (name "JumperTHT")(type "KiCad")(uri "${KIPRJMOD}/JumperTHT.pretty")(options "")(descr ""))
+  (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.pretty")(options "")(descr ""))
 )

@@ -2968,7 +2968,7 @@
     (property "Value" "SW_Push" (id 1) (at 133.35 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12" (id 2) (at 133.35 54.61 0)
+    (property "Footprint" "Custom:SW_SPST_Omron_B3FS-100xP_12" (id 2) (at 133.35 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.35 54.61 0)
@@ -5568,34 +5568,34 @@
       (reference "RV1") (unit 1) (value "10k") (footprint "Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical")
     )
     (path "/4993636c-8ce8-4bf8-8077-3669909e6e54"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/e88a2344-17ff-4e53-b935-70a9fa80f93c"
       (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/f1eceabf-35d8-4dd7-86d6-447404280d82"
-      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW3") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/02ebca4b-2167-4173-83c7-c62f025c1382"
-      (reference "SW4") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW4") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/aee469fc-c5f2-4050-983b-65966cb9d124"
-      (reference "SW5") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW5") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/81612aa8-1e7d-439d-a45b-52594d29b291/b64f2f06-7a27-49c2-9268-0289b42bd8c6"
-      (reference "SW6") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW6") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/384b068d-ed81-4ac1-b55d-ee9ce97a6810"
-      (reference "SW7") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW7") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/c551af66-e20a-4afe-b8a0-dea664c9e827"
-      (reference "SW8") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW8") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/e31039d2-7ab7-43c4-ab35-d0d95229c698"
-      (reference "SW9") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW9") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/be0b4a9a-8fbb-4881-aca6-5558b31a679f"
-      (reference "SW10") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP_12")
+      (reference "SW10") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/61a2c243-1081-49fc-9234-3b16ccef1f7c"
       (reference "TP1") (unit 1) (value "DebugSWD") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
