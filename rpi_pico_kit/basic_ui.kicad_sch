@@ -1811,7 +1811,7 @@
     (property "Value" "10k" (id 1) (at 64.77 170.815 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 67.31 168.91 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical" (id 2) (at 67.31 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 67.31 168.91 0)
