@@ -199,42 +199,6 @@
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 40be7de3-7f10-4f5b-b785-369347b10ff3))
   (fp_line (start 10.5 25.5) (end -10.5 25.5)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 143f1439-c2ea-4633-a520-a38dc84d6de4))
-  (fp_poly
-    (pts
-      (xy -1.5 -16.5)
-      (xy -3.5 -16.5)
-      (xy -3.5 -18.5)
-      (xy -1.5 -18.5)
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp dc4d88b9-34c5-41bf-b3b1-2fac278e5dd5))
-  (fp_poly
-    (pts
-      (xy -1.5 -14)
-      (xy -3.5 -14)
-      (xy -3.5 -16)
-      (xy -1.5 -16)
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp e621fb0a-a1d3-4881-bd45-bd4cf8c0774d))
-  (fp_poly
-    (pts
-      (xy -1.5 -11.5)
-      (xy -3.5 -11.5)
-      (xy -3.5 -13.5)
-      (xy -1.5 -13.5)
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp 9f7cc47c-56e9-4e63-9c9a-0b58cfd14c7f))
-  (fp_poly
-    (pts
-      (xy 3.7 -20.2)
-      (xy -3.7 -20.2)
-      (xy -3.7 -24.9)
-      (xy 3.7 -24.9)
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp 56f05713-7180-4e4d-8974-115667201784))
   (fp_line (start -11 -26) (end 11 -26)
     (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 82ac7f36-0833-480e-b907-9745ca7ca4f9))
   (fp_line (start -11 26) (end -11 -26)
@@ -253,10 +217,6 @@
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 14402da7-aa14-4f51-9c77-4cb07e5abca1))
   (fp_line (start 10.5 25.5) (end -10.5 25.5)
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp a00f68bb-ee61-4ac7-8c3a-3ba7c93ca3dc))
-  (pad "" np_thru_hole oval (at -2.725 -24) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask) (tstamp 80698eae-e9ee-43a8-9e77-ecf7cf0bb6a6))
-  (pad "" np_thru_hole oval (at -2.425 -20.97) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 590cfe68-8dbc-4487-94bc-72db5cc3618a))
-  (pad "" np_thru_hole oval (at 2.425 -20.97) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 62629afb-fadb-4e6d-9fb2-f0d0a992c06d))
-  (pad "" np_thru_hole oval (at 2.725 -24) (size 1.8 1.8) (drill 1.8) (layers *.Cu *.Mask) (tstamp c87a424a-a7eb-4797-a218-080412caf897))
   (pad "1" thru_hole oval (at -8.89 -24.13) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask) (tstamp b96b731a-92c2-4e6b-a452-39f1d33f53c2))
   (pad "2" thru_hole oval (at -8.89 -21.59) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask) (tstamp c517de34-4f09-44c4-870e-606e92563fb1))
   (pad "3" thru_hole rect (at -8.89 -19.05) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask) (tstamp 7ee5ea0c-defb-4d0b-bcbd-00ad41ed6f6f))
