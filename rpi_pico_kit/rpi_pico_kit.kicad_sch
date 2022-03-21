@@ -3457,7 +3457,7 @@
     (property "Value" "RPi Pico" (id 1) (at 81.28 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 81.28 58.42 90)
+    (property "Footprint" "RPi_Pico:RPi_Pico_THT" (id 2) (at 81.28 58.42 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 81.28 58.42 0)
@@ -5169,7 +5169,7 @@
       (reference "J3") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/503fb0f4-13ed-4158-b2ec-8a92da43b22a"
-      (reference "J4") (unit 1) (value "DB15_Female_HighDensity_MountingHoles") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm")
+      (reference "J4") (unit 1) (value "DB15_Female") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm")
     )
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/acd231c3-d87a-41aa-a37a-d99be4caff1b"
       (reference "J5") (unit 1) (value "HDMI_A") (footprint "HDMI_SS:STEWART_SS-53000-001")
