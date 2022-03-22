@@ -1,6 +1,6 @@
 (footprint "RPi_Pico_THT_socket" (version 20220211) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6239F35E)
+  (tedit 6239F496)
   (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x20 2.54mm double row")
   (attr through_hole)
@@ -278,8 +278,38 @@
   (pad "42" thru_hole rect (at 0 23.9) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask) (tstamp 66303165-a70b-491c-b70b-4e0fb6bafe71))
   (pad "43" thru_hole oval (at 2.54 23.9) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask) (tstamp 24a64e54-c891-4470-ae0c-1b45a3de5893))
   (model "${KIPRJMOD}/3D_models/Raspberry Pi Pico-R3.STEP"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 10.15))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.wrl"
+    (offset (xyz -8.89 24.13 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.wrl"
+    (offset (xyz 8.89 24.13 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.wrl"
+    (offset (xyz -8.89 24.13 9.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -180 0 -180))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.wrl"
+    (offset (xyz 8.89 24.13 9.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -180 0 -180))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl"
+    (offset (xyz -2.54 -24 9.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -180 0 90))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x03_P2.54mm_Vertical.wrl"
+    (offset (xyz 2.54 -24 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
   )
 )
