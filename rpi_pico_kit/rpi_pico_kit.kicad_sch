@@ -5423,28 +5423,28 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/85224da5-6f69-472c-b89a-0414775bc51c"
       (reference "R101") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/c5c163c9-13d9-453e-80cb-fe348d186c75"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/ff1542ae-fa8d-49e4-8bfe-b0f7ea682435"
       (reference "RN1") (unit 1) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/31b14aff-ee2e-49a4-ab89-484bb83c80db"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/c4bc65dc-5ea8-43f9-8120-2ceaa349ead6"
       (reference "RN1") (unit 2) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/c4bc65dc-5ea8-43f9-8120-2ceaa349ead6"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/31b14aff-ee2e-49a4-ab89-484bb83c80db"
       (reference "RN1") (unit 3) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/ff1542ae-fa8d-49e4-8bfe-b0f7ea682435"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/c5c163c9-13d9-453e-80cb-fe348d186c75"
       (reference "RN1") (unit 4) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/e233b022-d671-46de-872f-abe9ed9915a7"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/2e087240-ce33-406f-8cca-a65b89c63ac8"
       (reference "RN2") (unit 1) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/b6a110d2-d34d-4e35-b040-807317f709db"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/91f1dc10-44d3-489e-952b-bf1be2aa4e4a"
       (reference "RN2") (unit 2) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/91f1dc10-44d3-489e-952b-bf1be2aa4e4a"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/b6a110d2-d34d-4e35-b040-807317f709db"
       (reference "RN2") (unit 3) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
-    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/2e087240-ce33-406f-8cca-a65b89c63ac8"
+    (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/e233b022-d671-46de-872f-abe9ed9915a7"
       (reference "RN2") (unit 4) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
     )
     (path "/d61b4a07-386e-408b-9033-b22a8b79e947"
