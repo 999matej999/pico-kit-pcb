@@ -3540,7 +3540,7 @@
     (property "Value" "RPi Pico" (id 1) (at 81.28 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "RPi_Pico:RPi_Pico_THT" (id 2) (at 81.28 58.42 90)
+    (property "Footprint" "RPi_Pico:RPi_Pico_THT_socket" (id 2) (at 81.28 58.42 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 81.28 58.42 0)
@@ -5625,7 +5625,7 @@
       (reference "TP5") (unit 1) (value "DebugGND") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/8f624921-0bb1-4d0e-848b-7458a506535e"
-      (reference "U1") (unit 1) (value "RPi Pico") (footprint "RPi_Pico:RPi_Pico_THT")
+      (reference "U1") (unit 1) (value "RPi Pico") (footprint "RPi_Pico:RPi_Pico_THT_socket")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/8b8902c8-502a-41ca-8cb0-8bcacd855650"
       (reference "U2") (unit 1) (value "NCP1117-3.3_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
