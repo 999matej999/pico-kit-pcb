@@ -5177,21 +5177,6 @@
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/5c15ce3e-b822-434e-9649-e012dab833ed"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/303858ed-a42f-4e58-a359-2eb44be1a024"
-      (reference "JP2") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
-    )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/fce90999-588b-484a-80de-8e78a538c51c"
-      (reference "JP3") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
-    )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/f6c75e98-9224-4ade-b713-2fc636160865"
-      (reference "JP4") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
-    )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/37b38d02-cb8d-4e6f-a105-e3676e7c4daf"
-      (reference "JP5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
-    )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/2c293709-96e4-4d04-808a-c7d742743074"
-      (reference "JP6") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
-    )
     (path "/3f1595b6-27b4-4201-a7bd-a07ca74d856e"
       (reference "JP7") (unit 1) (value "Jumper_3_Bridged12") (footprint "JumperTHT:JumperTHT_3_P2.54mm_Bridged12")
     )
@@ -5631,7 +5616,7 @@
       (reference "TP2") (unit 1) (value "DebugSWCLK") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/0bb74b5e-f41d-431b-8c07-1f0253a442df"
-      (reference "TP3") (unit 1) (value "DebugTX") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+      (reference "TP3") (unit 1) (value "DebugTX") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/87300f90-4777-4910-a937-204206176d5a"
       (reference "TP4") (unit 1) (value "DebugRX") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
