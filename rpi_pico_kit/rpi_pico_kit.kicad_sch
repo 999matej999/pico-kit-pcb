@@ -5703,7 +5703,7 @@
       (reference "U9") (unit 1) (value "NCP115-3.3_SOT23-5") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/9e7d3081-6fb7-4514-bb9e-43aae438f7a1"
-      (reference "U10") (unit 1) (value "74LVC2G34GV") (footprint "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm")
+      (reference "U10") (unit 1) (value "74LVC2G34GV") (footprint "Package_SO:SC-74-6_1.5x2.9mm_P0.95mm")
     )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/b97dce6c-3860-4b6b-b195-6733bb2c29f0"
       (reference "U11") (unit 1) (value "PCM5101A") (footprint "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm")

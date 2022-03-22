@@ -2698,7 +2698,7 @@
     (property "Value" "74LVC2G34GV" (id 1) (at 53.34 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm" (id 2) (at 53.34 49.53 0)
+    (property "Footprint" "Package_SO:SC-74-6_1.5x2.9mm_P0.95mm" (id 2) (at 53.34 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 53.34 40.64 0)
