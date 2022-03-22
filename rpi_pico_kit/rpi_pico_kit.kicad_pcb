@@ -1375,7 +1375,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 0e3f3738-4bb3-4272-888d-eefe0934c41d)
-    (at 83.905 7.475)
+    (at 54.356 13.208)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Manufacturer Part Number" "~")
@@ -1707,7 +1707,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 18b19468-8514-4705-a744-0595f6d2a035)
-    (at 60.275 19.495)
+    (at 65.532 24.384)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C105Z4VAC7800")
@@ -2042,7 +2042,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 1ebceb5f-4827-42c6-be3b-37e0babaf33d)
-    (at 84.155 4.175)
+    (at 38.1 4.064)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Manufacturer Part Number" "~")
@@ -2599,7 +2599,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 2d2d419a-28fd-46e1-9440-bbc68dd5d7bf)
-    (at 54.285 25.735)
+    (at 60.706 18.542)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -2654,7 +2654,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 2e84aae6-e9ab-4292-85af-bd026f3e801e)
-    (at 74.355 3.905)
+    (at 60.706 21.59)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -3627,7 +3627,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 41d2483b-1805-4e9c-9e6d-0d66dfca1d4c)
-    (at 65.705 12.465)
+    (at 60.706 24.638)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -4288,7 +4288,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 4e4f16e5-5fa9-4342-accf-5ea7beeb6cd5)
-    (at 66.005 9.455)
+    (at 52.578 19.05)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -4484,7 +4484,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp 53dc7043-a593-4dfd-a93b-a2d92ff30000)
-    (at 65.705 15.475)
+    (at 60.706 15.494)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -7611,7 +7611,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 9f4c0241-ecd4-47ab-836b-a9d2c5662903)
-    (at 62.565 29.085)
+    (at 38.1 6.096)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Manufacturer Part Number" "~")
@@ -7870,7 +7870,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp a606502b-2a35-471d-ad73-cab515548cfe)
-    (at 49.475 25.835)
+    (at 65.532 21.59)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -8465,7 +8465,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp b369199f-a2e9-496c-adcf-7cac7552ae40)
-    (at 87.455 3.925)
+    (at 58.42 13.208)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Manufacturer Part Number" "~")
@@ -8855,7 +8855,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp b9782731-2210-4cdb-884b-d7906e3cb270)
-    (at 74.385 16.445)
+    (at 56.388 13.208)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Manufacturer Part Number" "~")
@@ -9290,7 +9290,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp bd91c81b-1af5-4a04-a8e9-d6de2d8a92f3)
-    (at 49.475 28.845)
+    (at 52.578 16.002)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -9805,7 +9805,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp c845f75a-42bc-48de-9cfe-1adf37125858)
-    (at 60.275 16.485)
+    (at 52.578 22.352)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C105Z4VAC7800")
@@ -10181,7 +10181,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp cdc1c00f-0333-430c-b50a-821cf221a7a9)
-    (at 70.815 9.925)
+    (at 65.532 15.494)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
@@ -11430,7 +11430,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tedit 5F68FEEF) (tstamp e7d3cdad-117c-4b04-8f8b-e3b2bc618357)
-    (at 60.275 22.505)
+    (at 65.532 18.542)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Manufacturer Part Number" "C0805C104M3RAC7800")
