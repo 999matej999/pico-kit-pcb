@@ -4949,6 +4949,9 @@
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/6d48bf97-08a5-43df-ab62-3baf84874f92"
       (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f30c370b-5e50-4162-81c6-d1177668954b/b1200b97-6cee-46e6-9c24-e976984a20a2"
+      (reference "#PWR0155") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/2bd19bd1-2975-4b91-a884-8b1113539e97/a927f1f4-98ba-40b8-bb8d-0eaab95070e5"
       (reference "BZ1") (unit 1) (value "Buzzer") (footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6")
     )
