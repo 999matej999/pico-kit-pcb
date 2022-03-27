@@ -3626,7 +3626,7 @@
     (pin "9" (uuid ced2ed96-d8d6-430b-a726-35f0f673f321))
   )
 
-  (symbol (lib_id "74xx:74HC14") (at 44.45 175.26 0) (unit 3)
+  (symbol (lib_id "74xx:74HC14") (at 44.45 175.26 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 919f662f-b70b-4993-9ea2-ad54dc351e72)
     (property "Reference" "U5" (id 0) (at 44.45 167.64 0)
@@ -3650,8 +3650,8 @@
     (property "Supplier Part URL" "https://www.digikey.cz/en/products/detail/diodes-incorporated/74HC14S14-13/4249403" (id 6) (at 44.45 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "5" (uuid 7ba27b0c-336f-4704-9838-6aab68ab47af))
-    (pin "6" (uuid 55516702-b00e-4d30-b585-7a6abe5e6bf0))
+    (pin "3" (uuid 092032e3-f53c-4719-97a3-07e7101fc6c5))
+    (pin "4" (uuid 180fccdc-632f-490b-800b-37843b448029))
   )
 
   (symbol (lib_id "power:GND") (at 81.28 88.9 0) (unit 1)
@@ -3913,7 +3913,7 @@
     (pin "1" (uuid 078f7fdf-0930-43f9-96fe-33f11576d473))
   )
 
-  (symbol (lib_id "74xx:74HC14") (at 95.25 175.26 0) (unit 4)
+  (symbol (lib_id "74xx:74HC14") (at 95.25 175.26 0) (unit 5)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d2118661-349f-4f17-a649-7ecad9caafc3)
     (property "Reference" "U5" (id 0) (at 95.25 167.64 0)
@@ -3937,8 +3937,8 @@
     (property "Supplier Part URL" "https://www.digikey.cz/en/products/detail/diodes-incorporated/74HC14S14-13/4249403" (id 6) (at 95.25 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "8" (uuid 4bc794ef-4cbc-4ebb-a8e7-c193907308f4))
-    (pin "9" (uuid a73edb33-051f-49c9-8988-18a7b93b7eef))
+    (pin "10" (uuid 3d98b1c8-f52d-47d8-bf56-12f34eaa58a6))
+    (pin "11" (uuid 42284f2f-a73d-4b5a-9aa8-1a7eb5f4f55d))
   )
 
   (symbol (lib_id "power:GND") (at 74.93 158.75 0) (unit 1)
@@ -4178,7 +4178,7 @@
     (pin "1" (uuid b7b6417d-bb00-4297-91c8-de6d5e9fde8a))
   )
 
-  (symbol (lib_id "74xx:74HC14") (at 95.25 147.32 0) (unit 2)
+  (symbol (lib_id "74xx:74HC14") (at 95.25 147.32 0) (unit 6)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f6bee219-67fb-464f-b724-02f155dc53f3)
     (property "Reference" "U5" (id 0) (at 95.25 139.7 0)
@@ -4202,8 +4202,8 @@
     (property "Supplier Part URL" "https://www.digikey.cz/en/products/detail/diodes-incorporated/74HC14S14-13/4249403" (id 6) (at 95.25 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid 0c6d6cbe-7349-47c7-937f-5cbe1c72c2c0))
-    (pin "4" (uuid 83feb560-6113-4ddf-bad3-1d33a5e9d806))
+    (pin "12" (uuid ba31ef8f-983a-4ec7-9d5a-d0017f5edb44))
+    (pin "13" (uuid 0108cbde-9b9e-4ae4-9049-fb7cad92e4e3))
   )
 
   (symbol (lib_id "Device:R") (at 85.09 181.61 0) (unit 1)
@@ -5671,19 +5671,19 @@
     (path "/8cfe7d6c-60a7-4cdd-be81-08179f25def9"
       (reference "U5") (unit 1) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/f6bee219-67fb-464f-b724-02f155dc53f3"
+    (path "/919f662f-b70b-4993-9ea2-ad54dc351e72"
       (reference "U5") (unit 2) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/919f662f-b70b-4993-9ea2-ad54dc351e72"
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/f32a0f73-1820-4ea7-8063-dc0a550d2cec"
       (reference "U5") (unit 3) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/d2118661-349f-4f17-a649-7ecad9caafc3"
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/bbbac723-7fcc-4a53-b5f6-de5daa58086a"
       (reference "U5") (unit 4) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/f32a0f73-1820-4ea7-8063-dc0a550d2cec"
+    (path "/d2118661-349f-4f17-a649-7ecad9caafc3"
       (reference "U5") (unit 5) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/bbbac723-7fcc-4a53-b5f6-de5daa58086a"
+    (path "/f6bee219-67fb-464f-b724-02f155dc53f3"
       (reference "U5") (unit 6) (value "74HC14") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/51159ff6-566b-4074-a591-1ba87332a58a"

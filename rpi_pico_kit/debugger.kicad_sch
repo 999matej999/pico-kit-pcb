@@ -3962,7 +3962,7 @@
     (pin "2" (uuid c27a5cd0-bb88-4a21-929b-086326b8acaa))
   )
 
-  (symbol (lib_id "74xx:74HC14") (at 251.46 142.24 0) (unit 6)
+  (symbol (lib_id "74xx:74HC14") (at 251.46 142.24 0) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bbbac723-7fcc-4a53-b5f6-de5daa58086a)
     (property "Reference" "U5" (id 0) (at 251.46 134.62 0)
@@ -3986,8 +3986,8 @@
     (property "Supplier Part URL" "https://www.digikey.cz/en/products/detail/diodes-incorporated/74HC14S14-13/4249403" (id 6) (at 251.46 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "12" (uuid 278f19a2-5733-4692-9e34-9325919f9eaf))
-    (pin "13" (uuid d9e4bb90-e4df-4aae-93aa-3267aceb0fcc))
+    (pin "8" (uuid bd86013f-3554-4b29-a6d0-de3b025a84f6))
+    (pin "9" (uuid 14d6e02d-d7b9-45b1-b869-3247f801cba1))
   )
 
   (symbol (lib_id "power:GND") (at 241.3 153.67 0) (unit 1)
@@ -4328,7 +4328,7 @@
     (pin "2" (uuid 8e04fcdf-b1ba-494c-9821-51cc792b8b57))
   )
 
-  (symbol (lib_id "74xx:74HC14") (at 200.66 142.24 0) (unit 5)
+  (symbol (lib_id "74xx:74HC14") (at 200.66 142.24 0) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f32a0f73-1820-4ea7-8063-dc0a550d2cec)
     (property "Reference" "U5" (id 0) (at 200.66 134.62 0)
@@ -4352,8 +4352,8 @@
     (property "Supplier Part URL" "https://www.digikey.cz/en/products/detail/diodes-incorporated/74HC14S14-13/4249403" (id 6) (at 200.66 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "10" (uuid c04eca05-a0f9-4bc2-a3af-c428ab1358bc))
-    (pin "11" (uuid 0cdebb81-7707-4273-b91b-84c97256655a))
+    (pin "5" (uuid 196a1e42-aaa0-4bf2-b9b9-0a82ac712188))
+    (pin "6" (uuid eb0a3f82-b036-46e0-8204-1f0a33ce8c79))
   )
 
   (symbol (lib_id "Device:C") (at 101.6 48.26 180) (unit 1)
