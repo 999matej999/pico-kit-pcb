@@ -2720,13 +2720,13 @@
     (pin "1" (uuid 7b719377-731a-4773-a514-a63b6155d57b))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 44.45 36.83 270) (unit 4)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 44.45 36.83 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1ac4a7c2-b7be-4e1c-a497-ed6aab390c53)
-    (property "Reference" "RN3" (id 0) (at 40.64 35.56 90)
+    (property "Reference" "RN3" (id 0) (at 48.26 35.56 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1k" (id 1) (at 50.8 35.56 90)
+    (property "Value" "1k" (id 1) (at 38.1 35.56 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603" (id 2) (at 44.45 34.798 90)
@@ -2735,8 +2735,8 @@
     (property "Datasheet" "~" (id 3) (at 44.45 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "4" (uuid db5f900b-6198-4bd7-b785-58416626c276))
-    (pin "5" (uuid bfe0cc57-3c62-4d4e-b119-5e8302e94e52))
+    (pin "1" (uuid e2addf09-773e-4558-8d9e-d05d13ccf13d))
+    (pin "8" (uuid 79302e5f-bb82-448e-9db5-1e411bfdab91))
   )
 
   (symbol (lib_id "power:GND") (at 140.97 62.23 0) (unit 1)
@@ -3131,7 +3131,7 @@
     (pin "2" (uuid 261933fe-f656-4d9e-866c-451d1cd9fd58))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 44.45 34.29 270) (unit 3)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 44.45 34.29 270) (unit 4)
     (in_bom yes) (on_board yes)
     (uuid 5db5a00f-59fb-4bcf-a0f0-3bf8a625fc7d)
     (property "Reference" "RN3" (id 0) (at 40.64 33.02 90)
@@ -3146,8 +3146,8 @@
     (property "Datasheet" "~" (id 3) (at 44.45 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid 8017ba4d-2cf4-4083-b97a-55033fb6b9af))
-    (pin "6" (uuid 022c2595-5f68-4f39-ac81-215bc18a2462))
+    (pin "4" (uuid dea589d4-e1e0-4832-9800-1f7d27e2b766))
+    (pin "5" (uuid 06552c7e-a8bf-443a-a448-275f58374d65))
   )
 
   (symbol (lib_id "Transistor_FET:BSS138") (at 144.78 101.6 270) (unit 1)
@@ -3876,7 +3876,7 @@
     (pin "1" (uuid 753ecb70-97f0-4f7b-a264-a48b4685cb33))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 54.61 26.67 180) (unit 2)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 54.61 26.67 180) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid cb5269f7-df36-404c-9295-80e9ad4fd32e)
     (property "Reference" "RN3" (id 0) (at 55.88 25.4 0)
@@ -3891,8 +3891,8 @@
     (property "Datasheet" "~" (id 3) (at 54.61 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid e8860743-3134-4106-812b-80de89633fe2))
-    (pin "7" (uuid 03e09325-617a-453f-912d-16994275e60a))
+    (pin "3" (uuid 9c365733-2f79-4a67-a2e1-99bed8d89c66))
+    (pin "6" (uuid 6c2ed2db-5af4-40c3-8464-a2a98099c1d7))
   )
 
   (symbol (lib_id "power:GND") (at 196.85 151.13 90) (unit 1)
@@ -3959,7 +3959,7 @@
     (pin "1" (uuid d2e3db98-9179-4229-98e7-202c6683e92a))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 33.02 26.67 180) (unit 1)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 33.02 26.67 180) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid d61b4a07-386e-408b-9033-b22a8b79e947)
     (property "Reference" "RN3" (id 0) (at 34.29 25.4 0)
@@ -3974,8 +3974,8 @@
     (property "Datasheet" "~" (id 3) (at 33.02 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8b4d6ec6-99e2-4e1b-8a01-57e530e8719d))
-    (pin "8" (uuid abd239d3-c235-46ae-9948-8c2705e7acd1))
+    (pin "2" (uuid 292c5d98-ab2a-42cf-80c1-f59edea945f3))
+    (pin "7" (uuid 78a38c5c-955a-455b-b65b-1273b51fb08e))
   )
 
   (symbol (lib_id "Device:R") (at 115.57 140.97 0) (unit 1)
@@ -5464,16 +5464,16 @@
     (path "/9fa08ac3-227f-4cf0-bd88-360446d7d584/e233b022-d671-46de-872f-abe9ed9915a7"
       (reference "RN2") (unit 4) (value "270R") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/d61b4a07-386e-408b-9033-b22a8b79e947"
+    (path "/1ac4a7c2-b7be-4e1c-a497-ed6aab390c53"
       (reference "RN3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/cb5269f7-df36-404c-9295-80e9ad4fd32e"
+    (path "/d61b4a07-386e-408b-9033-b22a8b79e947"
       (reference "RN3") (unit 2) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/5db5a00f-59fb-4bcf-a0f0-3bf8a625fc7d"
+    (path "/cb5269f7-df36-404c-9295-80e9ad4fd32e"
       (reference "RN3") (unit 3) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/1ac4a7c2-b7be-4e1c-a497-ed6aab390c53"
+    (path "/5db5a00f-59fb-4bcf-a0f0-3bf8a625fc7d"
       (reference "RN3") (unit 4) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/2b9542d5-906d-49bf-9f26-db803264cc55"
