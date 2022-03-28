@@ -782,7 +782,7 @@
     (pin "2" (uuid 58520044-19ae-4c29-b627-e430f2b3c6b0))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 95.25 68.58 180) (unit 3)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 95.25 68.58 180) (unit 4)
     (in_bom yes) (on_board yes)
     (uuid 24f98e01-2947-44a6-8bbd-3f45342be78e)
     (property "Reference" "RN8" (id 0) (at 96.52 67.31 0)
@@ -797,8 +797,8 @@
     (property "Datasheet" "~" (id 3) (at 95.25 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "3" (uuid 14f5b765-e874-4613-8184-2836257a26a4))
-    (pin "6" (uuid 9d25e65f-aaf9-4be3-bcc5-5ea3c18a2c64))
+    (pin "4" (uuid 8dcf40e6-09a5-42e4-8b46-f4738540468d))
+    (pin "5" (uuid a8cdda0e-7b06-4b92-8078-341b4e32614a))
   )
 
   (symbol (lib_id "power:GND") (at 166.37 114.3 0) (unit 1)
@@ -819,7 +819,7 @@
     (pin "1" (uuid 3a321148-297e-4414-ac7b-b2ce6d1aff3b))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 57.15 68.58 180) (unit 1)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 57.15 68.58 180) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid 297404db-14e3-40bf-91f1-3b3e06e4acae)
     (property "Reference" "RN8" (id 0) (at 58.42 67.31 0)
@@ -834,8 +834,8 @@
     (property "Datasheet" "~" (id 3) (at 57.15 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 151f9bb6-d02f-4354-9b30-b6f701aa2c09))
-    (pin "8" (uuid f673eb35-d432-405b-8013-de80ba0d10d3))
+    (pin "3" (uuid 48a8c1f5-4bcb-4560-9762-44aaefee4419))
+    (pin "6" (uuid 5da0928a-9939-439c-bcbe-74de097058a8))
   )
 
   (symbol (lib_id "power:+3.3V") (at 166.37 71.12 0) (unit 1)
@@ -892,7 +892,7 @@
     (pin "1" (uuid 9e6a82eb-6559-47e5-bb0c-ca1c8cad115d))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 104.14 68.58 180) (unit 4)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 104.14 68.58 180) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid 7bd3813b-41e4-4d12-b8d3-4f6e3498c716)
     (property "Reference" "RN8" (id 0) (at 105.41 67.31 0)
@@ -907,8 +907,8 @@
     (property "Datasheet" "~" (id 3) (at 104.14 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "4" (uuid 01e2361c-8cef-4c66-ba86-15d354cfdd06))
-    (pin "5" (uuid fcdbdcaf-6a48-40a7-b2b9-d51b2526eafd))
+    (pin "2" (uuid 9a88d63d-f7e5-416d-9807-a8e942aef287))
+    (pin "7" (uuid 335263d3-7e35-4a9c-83c2-cd71d45f0688))
   )
 
   (symbol (lib_id "power:GND") (at 232.41 101.6 0) (unit 1)
@@ -1110,7 +1110,7 @@
     (pin "1" (uuid ebf2b1ad-d87b-4fd4-b708-ec59741a23db))
   )
 
-  (symbol (lib_id "Device:R_Pack04_Split") (at 66.04 68.58 180) (unit 2)
+  (symbol (lib_id "Device:R_Pack04_Split") (at 66.04 68.58 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bece46a7-f9ba-462e-9b11-a39d50f61e43)
     (property "Reference" "RN8" (id 0) (at 67.31 67.31 0)
@@ -1125,8 +1125,8 @@
     (property "Datasheet" "~" (id 3) (at 66.04 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 7ae330b8-c37a-4622-883e-1b1bfbc1d4a7))
-    (pin "7" (uuid e2be8db3-797a-4bb3-9929-34f9136c1252))
+    (pin "1" (uuid 88e4f832-79d6-4c54-9ce3-4328dcb9d5b5))
+    (pin "8" (uuid d27bd75e-eeb9-4d8b-bfdb-bddce4b94b6c))
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 151.13 106.68 0) (unit 1)
