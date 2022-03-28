@@ -5541,16 +5541,16 @@
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/732ffa5f-324d-42a1-848d-9408c0e9a714"
       (reference "RN6") (unit 4) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/641f077c-e515-45d0-b96d-bc383bfa24c8"
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/d8e46017-57a7-4523-bf64-069d5ad6f2a0"
       (reference "RN7") (unit 1) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
     (path "/fb9d2228-979f-4324-8147-e53c807eddd8/3f907e43-cf04-4f8e-882d-0cebe814152d"
       (reference "RN7") (unit 2) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/d8e46017-57a7-4523-bf64-069d5ad6f2a0"
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/9c456be0-2e37-477f-bd6a-b1fa820a429b"
       (reference "RN7") (unit 3) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
-    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/9c456be0-2e37-477f-bd6a-b1fa820a429b"
+    (path "/fb9d2228-979f-4324-8147-e53c807eddd8/641f077c-e515-45d0-b96d-bc383bfa24c8"
       (reference "RN7") (unit 4) (value "1k") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
     )
     (path "/f30c370b-5e50-4162-81c6-d1177668954b/297404db-14e3-40bf-91f1-3b3e06e4acae"
