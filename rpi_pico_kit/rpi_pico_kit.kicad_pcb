@@ -1,7 +1,7 @@
 (kicad_pcb (version 20220211) (generator pcbnew)
 
   (general
-    (thickness 0)
+    (thickness 1.6)
   )
 
   (paper "A4")
@@ -40,6 +40,23 @@
   )
 
   (setup
+    (stackup
+      (layer "F.SilkS" (type "Top Silk Screen"))
+      (layer "F.Paste" (type "Top Solder Paste"))
+      (layer "F.Mask" (type "Top Solder Mask") (thickness 0.01))
+      (layer "F.Cu" (type "copper") (thickness 0.035))
+      (layer "dielectric 1" (type "core") (thickness 0.48) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "In1.Cu" (type "copper") (thickness 0.035))
+      (layer "dielectric 2" (type "prepreg") (thickness 0.48) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "In2.Cu" (type "copper") (thickness 0.035))
+      (layer "dielectric 3" (type "core") (thickness 0.48) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "B.Cu" (type "copper") (thickness 0.035))
+      (layer "B.Mask" (type "Bottom Solder Mask") (thickness 0.01))
+      (layer "B.Paste" (type "Bottom Solder Paste"))
+      (layer "B.SilkS" (type "Bottom Silk Screen"))
+      (copper_finish "None")
+      (dielectric_constraints no)
+    )
     (pad_to_mask_clearance 0.05)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
@@ -13624,7 +13641,6 @@
   (segment (start 51.666768 67.818444) (end 51.666768 81.428347) (width 0.3048) (layer "B.Cu") (net 81) (tstamp 3ebb0ce4-26b2-41fb-ad2d-a2042fbce17c))
   (segment (start 56.598421 86.36) (end 58.42 86.36) (width 0.3048) (layer "B.Cu") (net 81) (tstamp 42160624-e9c1-444e-ad6d-a3377c6509f7))
   (segment (start 59.563 89.236779) (end 59.563 87.503) (width 0.1397) (layer "B.Cu") (net 81) (tstamp 7a92c089-7680-466b-a237-00f45c3132fb))
-  (segment (start 52.832 96.52) (end 52.832 95.967779) (width 0.1397) (layer "B.Cu") (net 81) (tstamp 80f35dc4-dc81-4892-8de4-1aac576faff6))
   (segment (start 59.563 87.503) (end 58.42 86.36) (width 0.1397) (layer "B.Cu") (net 81) (tstamp 8d66206f-04fd-42fc-8df4-a54c8b5ffb2e))
   (segment (start 52.832 95.967778) (end 53.063889 95.735889) (width 0.1397) (layer "B.Cu") (net 81) (tstamp 92410beb-99f0-41aa-972a-1c8c577783e1))
   (segment (start 54.131401 66.764001) (end 52.721211 66.764001) (width 0.3048) (layer "B.Cu") (net 81) (tstamp 9f198b82-acc9-4757-a7bb-4d9465625040))
