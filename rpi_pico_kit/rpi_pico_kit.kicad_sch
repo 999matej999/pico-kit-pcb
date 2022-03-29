@@ -5670,20 +5670,20 @@
     (path "/4993636c-8ce8-4bf8-8077-3669909e6e54"
       (reference "SW10") (unit 1) (value "SW_Push") (footprint "Custom:SW_SPST_Omron_B3FS-100xP_12")
     )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/61a2c243-1081-49fc-9234-3b16ccef1f7c"
-      (reference "TP1") (unit 1) (value "DebugSWD") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/9ca90102-44ee-4abd-b6a9-f97f273dd8bb"
+      (reference "TP1") (unit 1) (value "DebugGND") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/255fa506-ef4e-460f-b90b-25362656553c"
       (reference "TP2") (unit 1) (value "DebugSWCLK") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/9ca90102-44ee-4abd-b6a9-f97f273dd8bb"
-      (reference "TP3") (unit 1) (value "DebugGND") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
-    )
-    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/0bb74b5e-f41d-431b-8c07-1f0253a442df"
-      (reference "TP4") (unit 1) (value "DebugTX") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/61a2c243-1081-49fc-9234-3b16ccef1f7c"
+      (reference "TP3") (unit 1) (value "DebugSWD") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/87300f90-4777-4910-a937-204206176d5a"
-      (reference "TP5") (unit 1) (value "DebugRX") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP4") (unit 1) (value "DebugRX") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/fe15dc26-52fc-427e-8179-2b8bb41b57bb/0bb74b5e-f41d-431b-8c07-1f0253a442df"
+      (reference "TP5") (unit 1) (value "DebugTX") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/8f624921-0bb1-4d0e-848b-7458a506535e"
       (reference "U1") (unit 1) (value "RPi Pico") (footprint "RPi_Pico:RPi_Pico_THT_socket")
