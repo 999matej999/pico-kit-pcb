@@ -1830,7 +1830,7 @@
     (property "Datasheet" "~" (id 3) (at 67.31 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Manufacturer Part Number" "PT01-B125D-B103" (id 4) (at 67.31 168.91 0)
+    (property "Manufacturer Part Number" "PTV09A-4025F-B103" (id 4) (at 67.31 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Supplier" "Digikey" (id 5) (at 67.31 168.91 0)
