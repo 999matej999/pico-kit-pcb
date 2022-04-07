@@ -6,8 +6,8 @@
 
   (title_block
     (title "Raspberry Pi Pico Kit")
-    (date "2022-01-02")
-    (rev "1")
+    (date "2022-03-30")
+    (rev "2")
   )
 
   (lib_symbols
